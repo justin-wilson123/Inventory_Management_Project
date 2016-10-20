@@ -1,0 +1,338 @@
+2016-04-17 21:10:38 INFO  WarehousePartReportPDF:59 - Report creation started for PDF
+2016-04-17 21:10:38 WARN  WarehousePartReportPDF:61 - No inventory records found for report yet
+2016-04-17 21:11:27 INFO  WarehousePartReportPDF:59 - Report creation started for PDF
+2016-04-17 21:11:27 WARN  WarehousePartReportPDF:61 - No inventory records found for report yet
+2016-04-17 21:21:09 INFO  WarehousePartReportPDF:59 - Report creation started for PDF
+2016-04-17 21:21:09 WARN  WarehousePartReportPDF:61 - No inventory records found for report yet
+2016-04-17 21:45:04 INFO  WarehousePartReportPDF:59 - Report creation started for PDF
+2016-04-17 21:45:04 WARN  WarehousePartReportPDF:61 - No inventory records found for report yet
+2016-04-17 21:45:54 INFO  WarehousePartReportPDF:59 - Report creation started for PDF
+2016-04-17 21:45:54 WARN  WarehousePartReportPDF:61 - No inventory records found for report yet
+2016-04-17 21:45:55 TRACE FileSystemFontProvider:199 - Will search the local system for fonts
+2016-04-17 21:45:55 TRACE FileSystemFontProvider:213 - Found 470 fonts on the local system
+2016-04-17 21:45:55 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPSMT from C:\Windows\FONTS\times.ttf
+2016-04-17 21:45:55 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPS-BoldMT from C:\Windows\FONTS\timesbd.ttf
+2016-04-17 21:45:55 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPS-ItalicMT from C:\Windows\FONTS\timesi.ttf
+2016-04-17 21:45:55 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPS-BoldItalicMT from C:\Windows\FONTS\timesbi.ttf
+2016-04-17 21:45:55 DEBUG FileSystemFontProvider:655 - Loaded ArialMT from C:\Windows\FONTS\arial.ttf
+2016-04-17 21:45:55 DEBUG FileSystemFontProvider:655 - Loaded Arial-BoldMT from C:\Windows\FONTS\arialbd.ttf
+2016-04-17 21:45:55 DEBUG FileSystemFontProvider:655 - Loaded Arial-ItalicMT from C:\Windows\FONTS\ariali.ttf
+2016-04-17 21:45:55 DEBUG FileSystemFontProvider:655 - Loaded Arial-BoldItalicMT from C:\Windows\FONTS\arialbi.ttf
+2016-04-17 21:45:55 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPSMT from C:\Windows\FONTS\cour.ttf
+2016-04-17 21:45:55 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPS-BoldMT from C:\Windows\FONTS\courbd.ttf
+2016-04-17 21:45:55 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPS-ItalicMT from C:\Windows\FONTS\couri.ttf
+2016-04-17 21:45:55 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPS-BoldItalicMT from C:\Windows\FONTS\courbi.ttf
+2016-04-17 21:45:55 DEBUG FileSystemFontProvider:655 - Loaded SymbolMT from C:\Windows\FONTS\symbol.ttf
+2016-04-17 21:45:55 DEBUG FileSystemFontProvider:655 - Loaded MS-Gothic from C:\Windows\FONTS\msgothic.ttc
+2016-04-17 21:45:55 TRACE WarehousePartReportPDF:178 - Writing record 2 to report
+2016-04-17 21:45:55 INFO  WarehousePartReportPDF:180 - Record 21 will cause a page break
+2016-04-17 21:45:55 DEBUG WarehousePartReportPDF:188 - East | 14747 | Bolt | 30 | Pieces
+2016-04-17 21:45:55 DEBUG WarehousePartReportPDF:188 - Warehouse1 | 93939 | knob | 10 | Pieces
+2016-04-17 21:45:55 INFO  WarehousePartReportPDF:285 - Page 1 created
+2016-04-17 21:45:55 INFO  WarehousePartReportPDF:303 - Writing report to file
+2016-04-17 22:11:42 INFO  WarehousePartReportPDF:59 - Report creation started for PDF
+2016-04-17 22:11:42 WARN  WarehousePartReportPDF:61 - No inventory records found for report yet
+2016-04-17 22:11:42 TRACE FileSystemFontProvider:199 - Will search the local system for fonts
+2016-04-17 22:11:42 TRACE FileSystemFontProvider:213 - Found 470 fonts on the local system
+2016-04-17 22:11:42 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPSMT from C:\Windows\FONTS\times.ttf
+2016-04-17 22:11:42 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPS-BoldMT from C:\Windows\FONTS\timesbd.ttf
+2016-04-17 22:11:42 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPS-ItalicMT from C:\Windows\FONTS\timesi.ttf
+2016-04-17 22:11:42 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPS-BoldItalicMT from C:\Windows\FONTS\timesbi.ttf
+2016-04-17 22:11:42 DEBUG FileSystemFontProvider:655 - Loaded ArialMT from C:\Windows\FONTS\arial.ttf
+2016-04-17 22:11:42 DEBUG FileSystemFontProvider:655 - Loaded Arial-BoldMT from C:\Windows\FONTS\arialbd.ttf
+2016-04-17 22:11:42 DEBUG FileSystemFontProvider:655 - Loaded Arial-ItalicMT from C:\Windows\FONTS\ariali.ttf
+2016-04-17 22:11:42 DEBUG FileSystemFontProvider:655 - Loaded Arial-BoldItalicMT from C:\Windows\FONTS\arialbi.ttf
+2016-04-17 22:11:42 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPSMT from C:\Windows\FONTS\cour.ttf
+2016-04-17 22:11:42 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPS-BoldMT from C:\Windows\FONTS\courbd.ttf
+2016-04-17 22:11:42 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPS-ItalicMT from C:\Windows\FONTS\couri.ttf
+2016-04-17 22:11:42 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPS-BoldItalicMT from C:\Windows\FONTS\courbi.ttf
+2016-04-17 22:11:42 DEBUG FileSystemFontProvider:655 - Loaded SymbolMT from C:\Windows\FONTS\symbol.ttf
+2016-04-17 22:11:42 DEBUG FileSystemFontProvider:655 - Loaded MS-Gothic from C:\Windows\FONTS\msgothic.ttc
+2016-04-17 22:11:42 TRACE WarehousePartReportPDF:178 - Writing record 11 to report
+2016-04-17 22:11:42 INFO  WarehousePartReportPDF:180 - Record 21 will cause a page break
+2016-04-17 22:11:42 DEBUG WarehousePartReportPDF:188 - East | 14747 | Bolt | 30 | Pieces
+2016-04-17 22:11:42 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 14747 | Bolt | 30 | Pieces
+2016-04-17 22:11:42 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10209 | Part 13 | 123 | Linear Ft.
+2016-04-17 22:11:42 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10210 | Part 14 | 25 | Pieces
+2016-04-17 22:11:42 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10201 | Part 4 | 40 | Pieces
+2016-04-17 22:11:42 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10207 | Part 10 | 40 | Pieces
+2016-04-17 22:11:42 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10208 | Part 12 | 50 | Pieces
+2016-04-17 22:11:42 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10209 | Part 13 | 20 | Linear Ft.
+2016-04-17 22:11:42 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10210 | Part 14 | 15 | Pieces
+2016-04-17 22:11:42 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10206 | Part 9 | 99 | Linear Ft.
+2016-04-17 22:11:42 DEBUG WarehousePartReportPDF:188 - Warehouse1 | 93939 | knob | 10 | Pieces
+2016-04-17 22:11:42 INFO  WarehousePartReportPDF:285 - Page 1 created
+2016-04-17 22:11:42 INFO  WarehousePartReportPDF:303 - Writing report to file
+2016-04-17 22:23:28 INFO  WarehousePartReportPDF:59 - Report creation started for PDF
+2016-04-17 22:23:28 WARN  WarehousePartReportPDF:61 - No inventory records found for report yet
+2016-04-17 22:23:29 TRACE FileSystemFontProvider:199 - Will search the local system for fonts
+2016-04-17 22:23:29 TRACE FileSystemFontProvider:213 - Found 470 fonts on the local system
+2016-04-17 22:23:29 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPSMT from C:\Windows\FONTS\times.ttf
+2016-04-17 22:23:29 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPS-BoldMT from C:\Windows\FONTS\timesbd.ttf
+2016-04-17 22:23:29 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPS-ItalicMT from C:\Windows\FONTS\timesi.ttf
+2016-04-17 22:23:29 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPS-BoldItalicMT from C:\Windows\FONTS\timesbi.ttf
+2016-04-17 22:23:29 DEBUG FileSystemFontProvider:655 - Loaded ArialMT from C:\Windows\FONTS\arial.ttf
+2016-04-17 22:23:29 DEBUG FileSystemFontProvider:655 - Loaded Arial-BoldMT from C:\Windows\FONTS\arialbd.ttf
+2016-04-17 22:23:29 DEBUG FileSystemFontProvider:655 - Loaded Arial-ItalicMT from C:\Windows\FONTS\ariali.ttf
+2016-04-17 22:23:29 DEBUG FileSystemFontProvider:655 - Loaded Arial-BoldItalicMT from C:\Windows\FONTS\arialbi.ttf
+2016-04-17 22:23:29 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPSMT from C:\Windows\FONTS\cour.ttf
+2016-04-17 22:23:29 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPS-BoldMT from C:\Windows\FONTS\courbd.ttf
+2016-04-17 22:23:29 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPS-ItalicMT from C:\Windows\FONTS\couri.ttf
+2016-04-17 22:23:29 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPS-BoldItalicMT from C:\Windows\FONTS\courbi.ttf
+2016-04-17 22:23:29 DEBUG FileSystemFontProvider:655 - Loaded SymbolMT from C:\Windows\FONTS\symbol.ttf
+2016-04-17 22:23:29 DEBUG FileSystemFontProvider:655 - Loaded MS-Gothic from C:\Windows\FONTS\msgothic.ttc
+2016-04-17 22:23:29 TRACE WarehousePartReportPDF:178 - Writing record 24 to report
+2016-04-17 22:23:29 INFO  WarehousePartReportPDF:180 - Record 21 will cause a page break
+2016-04-17 22:23:29 DEBUG WarehousePartReportPDF:188 - East | 14747 | Bolt | 30 | Pieces
+2016-04-17 22:23:29 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 93939 | knob | 22 | Pieces
+2016-04-17 22:23:29 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 10207 | Part 10 | 44 | Pieces
+2016-04-17 22:23:29 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 10209 | Part 13 | 28 | Linear Ft.
+2016-04-17 22:23:29 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 10210 | Part 14 | 90 | Pieces
+2016-04-17 22:23:29 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 10200 | Part 3 | 54 | Pieces
+2016-04-17 22:23:29 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 10233 | Saw | 66 | Pieces
+2016-04-17 22:23:29 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 14747 | Bolt | 30 | Pieces
+2016-04-17 22:23:29 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10207 | Part 10 | 33 | Pieces
+2016-04-17 22:23:29 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10209 | Part 13 | 123 | Linear Ft.
+2016-04-17 22:23:29 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10210 | Part 14 | 25 | Pieces
+2016-04-17 22:23:29 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10200 | Part 3 | 78 | Pieces
+2016-04-17 22:23:29 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10201 | Part 4 | 40 | Pieces
+2016-04-17 22:23:29 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10202 | Part 5 | 8 | Pieces
+2016-04-17 22:23:29 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10204 | Part 7 | 9 | Pieces
+2016-04-17 22:23:29 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10207 | Part 10 | 40 | Pieces
+2016-04-17 22:23:29 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10208 | Part 12 | 50 | Pieces
+2016-04-17 22:23:29 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10209 | Part 13 | 20 | Linear Ft.
+2016-04-17 22:23:29 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10210 | Part 14 | 15 | Pieces
+2016-04-17 22:23:29 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10206 | Part 9 | 99 | Linear Ft.
+2016-04-17 22:23:29 DEBUG WarehousePartReportPDF:188 - Warehouse1 | 93939 | knob | 10 | Pieces
+2016-04-17 22:23:29 INFO  WarehousePartReportPDF:214 - Page 1 created
+2016-04-17 22:23:29 DEBUG WarehousePartReportPDF:188 - Warehouse1 | 10209 | Part 13 | 5 | Linear Ft.
+2016-04-17 22:23:29 DEBUG WarehousePartReportPDF:188 - Warehouse1 | 10201 | Part 4 | 10 | Pieces
+2016-04-17 22:23:29 DEBUG WarehousePartReportPDF:188 - Warehouse1 | 10203 | Part 6 | 2 | Pieces
+2016-04-17 22:23:29 INFO  WarehousePartReportPDF:285 - Page 2 created
+2016-04-17 22:23:29 INFO  WarehousePartReportPDF:303 - Writing report to file
+2016-04-17 22:25:22 INFO  WarehousePartReportPDF:59 - Report creation started for PDF
+2016-04-17 22:25:22 WARN  WarehousePartReportPDF:61 - No inventory records found for report yet
+2016-04-17 22:25:23 TRACE FileSystemFontProvider:199 - Will search the local system for fonts
+2016-04-17 22:25:23 TRACE FileSystemFontProvider:213 - Found 470 fonts on the local system
+2016-04-17 22:25:23 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPSMT from C:\Windows\FONTS\times.ttf
+2016-04-17 22:25:23 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPS-BoldMT from C:\Windows\FONTS\timesbd.ttf
+2016-04-17 22:25:23 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPS-ItalicMT from C:\Windows\FONTS\timesi.ttf
+2016-04-17 22:25:23 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPS-BoldItalicMT from C:\Windows\FONTS\timesbi.ttf
+2016-04-17 22:25:23 DEBUG FileSystemFontProvider:655 - Loaded ArialMT from C:\Windows\FONTS\arial.ttf
+2016-04-17 22:25:23 DEBUG FileSystemFontProvider:655 - Loaded Arial-BoldMT from C:\Windows\FONTS\arialbd.ttf
+2016-04-17 22:25:23 DEBUG FileSystemFontProvider:655 - Loaded Arial-ItalicMT from C:\Windows\FONTS\ariali.ttf
+2016-04-17 22:25:23 DEBUG FileSystemFontProvider:655 - Loaded Arial-BoldItalicMT from C:\Windows\FONTS\arialbi.ttf
+2016-04-17 22:25:23 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPSMT from C:\Windows\FONTS\cour.ttf
+2016-04-17 22:25:23 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPS-BoldMT from C:\Windows\FONTS\courbd.ttf
+2016-04-17 22:25:23 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPS-ItalicMT from C:\Windows\FONTS\couri.ttf
+2016-04-17 22:25:23 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPS-BoldItalicMT from C:\Windows\FONTS\courbi.ttf
+2016-04-17 22:25:23 DEBUG FileSystemFontProvider:655 - Loaded SymbolMT from C:\Windows\FONTS\symbol.ttf
+2016-04-17 22:25:23 DEBUG FileSystemFontProvider:655 - Loaded MS-Gothic from C:\Windows\FONTS\msgothic.ttc
+2016-04-17 22:25:23 TRACE WarehousePartReportPDF:178 - Writing record 29 to report
+2016-04-17 22:25:23 INFO  WarehousePartReportPDF:180 - Record 21 will cause a page break
+2016-04-17 22:25:23 DEBUG WarehousePartReportPDF:188 - East | 14747 | Bolt | 30 | Pieces
+2016-04-17 22:25:23 DEBUG WarehousePartReportPDF:188 - East | 93939 | knob | 21 | Pieces
+2016-04-17 22:25:23 DEBUG WarehousePartReportPDF:188 - East | 10209 | Part 13 | 55 | Linear Ft.
+2016-04-17 22:25:23 DEBUG WarehousePartReportPDF:188 - East | 10201 | Part 4 | 1 | Pieces
+2016-04-17 22:25:23 DEBUG WarehousePartReportPDF:188 - East | 10204 | Part 7 | 65 | Pieces
+2016-04-17 22:25:23 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 93939 | knob | 22 | Pieces
+2016-04-17 22:25:23 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 10207 | Part 10 | 44 | Pieces
+2016-04-17 22:25:23 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 10209 | Part 13 | 28 | Linear Ft.
+2016-04-17 22:25:23 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 10210 | Part 14 | 90 | Pieces
+2016-04-17 22:25:23 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 10200 | Part 3 | 54 | Pieces
+2016-04-17 22:25:23 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 10233 | Saw | 66 | Pieces
+2016-04-17 22:25:23 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 14747 | Bolt | 30 | Pieces
+2016-04-17 22:25:23 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10207 | Part 10 | 33 | Pieces
+2016-04-17 22:25:23 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10209 | Part 13 | 123 | Linear Ft.
+2016-04-17 22:25:23 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10210 | Part 14 | 25 | Pieces
+2016-04-17 22:25:23 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10200 | Part 3 | 78 | Pieces
+2016-04-17 22:25:23 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10201 | Part 4 | 40 | Pieces
+2016-04-17 22:25:23 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10202 | Part 5 | 8 | Pieces
+2016-04-17 22:25:23 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10204 | Part 7 | 9 | Pieces
+2016-04-17 22:25:23 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | Part 2 | Wrench3 | 87 | Pieces
+2016-04-17 22:25:23 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10207 | Part 10 | 40 | Pieces
+2016-04-17 22:25:23 INFO  WarehousePartReportPDF:214 - Page 1 created
+2016-04-17 22:25:23 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10208 | Part 12 | 50 | Pieces
+2016-04-17 22:25:23 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10209 | Part 13 | 20 | Linear Ft.
+2016-04-17 22:25:23 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10210 | Part 14 | 15 | Pieces
+2016-04-17 22:25:23 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10206 | Part 9 | 99 | Linear Ft.
+2016-04-17 22:25:23 DEBUG WarehousePartReportPDF:188 - Warehouse1 | 93939 | knob | 10 | Pieces
+2016-04-17 22:25:23 DEBUG WarehousePartReportPDF:188 - Warehouse1 | 10209 | Part 13 | 5 | Linear Ft.
+2016-04-17 22:25:23 DEBUG WarehousePartReportPDF:188 - Warehouse1 | 10201 | Part 4 | 10 | Pieces
+2016-04-17 22:25:23 DEBUG WarehousePartReportPDF:188 - Warehouse1 | 10203 | Part 6 | 2 | Pieces
+2016-04-17 22:25:23 INFO  WarehousePartReportPDF:285 - Page 2 created
+2016-04-17 22:25:23 INFO  WarehousePartReportPDF:303 - Writing report to file
+2016-04-17 22:28:45 INFO  WarehousePartReportPDF:59 - Report creation started for PDF
+2016-04-17 22:28:45 WARN  WarehousePartReportPDF:61 - No inventory records found for report yet
+2016-04-17 22:28:46 TRACE FileSystemFontProvider:199 - Will search the local system for fonts
+2016-04-17 22:28:46 TRACE FileSystemFontProvider:213 - Found 470 fonts on the local system
+2016-04-17 22:28:46 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPSMT from C:\Windows\FONTS\times.ttf
+2016-04-17 22:28:46 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPS-BoldMT from C:\Windows\FONTS\timesbd.ttf
+2016-04-17 22:28:46 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPS-ItalicMT from C:\Windows\FONTS\timesi.ttf
+2016-04-17 22:28:46 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPS-BoldItalicMT from C:\Windows\FONTS\timesbi.ttf
+2016-04-17 22:28:46 DEBUG FileSystemFontProvider:655 - Loaded ArialMT from C:\Windows\FONTS\arial.ttf
+2016-04-17 22:28:46 DEBUG FileSystemFontProvider:655 - Loaded Arial-BoldMT from C:\Windows\FONTS\arialbd.ttf
+2016-04-17 22:28:46 DEBUG FileSystemFontProvider:655 - Loaded Arial-ItalicMT from C:\Windows\FONTS\ariali.ttf
+2016-04-17 22:28:46 DEBUG FileSystemFontProvider:655 - Loaded Arial-BoldItalicMT from C:\Windows\FONTS\arialbi.ttf
+2016-04-17 22:28:46 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPSMT from C:\Windows\FONTS\cour.ttf
+2016-04-17 22:28:46 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPS-BoldMT from C:\Windows\FONTS\courbd.ttf
+2016-04-17 22:28:46 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPS-ItalicMT from C:\Windows\FONTS\couri.ttf
+2016-04-17 22:28:46 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPS-BoldItalicMT from C:\Windows\FONTS\courbi.ttf
+2016-04-17 22:28:46 DEBUG FileSystemFontProvider:655 - Loaded SymbolMT from C:\Windows\FONTS\symbol.ttf
+2016-04-17 22:28:46 DEBUG FileSystemFontProvider:655 - Loaded MS-Gothic from C:\Windows\FONTS\msgothic.ttc
+2016-04-17 22:28:46 TRACE WarehousePartReportPDF:178 - Writing record 35 to report
+2016-04-17 22:28:46 INFO  WarehousePartReportPDF:180 - Record 21 will cause a page break
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - East | 14747 | Bolt | 30 | Pieces
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - East | 93939 | knob | 21 | Pieces
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - East | 10209 | Part 13 | 55 | Linear Ft.
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - East | 10200 | Part 3 | 6 | Pieces
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - East | 10201 | Part 4 | 1 | Pieces
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - East | 10204 | Part 7 | 65 | Pieces
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 93939 | knob | 22 | Pieces
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 10207 | Part 10 | 44 | Pieces
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 10209 | Part 13 | 28 | Linear Ft.
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 10210 | Part 14 | 90 | Pieces
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 10200 | Part 3 | 54 | Pieces
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 10202 | Part 5 | 8 | Pieces
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 10233 | Saw | 66 | Pieces
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | Part 2 | Wrench3 | 77 | Pieces
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 14747 | Bolt | 30 | Pieces
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10207 | Part 10 | 33 | Pieces
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10209 | Part 13 | 123 | Linear Ft.
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10210 | Part 14 | 25 | Pieces
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10200 | Part 3 | 78 | Pieces
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10201 | Part 4 | 40 | Pieces
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10202 | Part 5 | 8 | Pieces
+2016-04-17 22:28:46 INFO  WarehousePartReportPDF:214 - Page 1 created
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10204 | Part 7 | 9 | Pieces
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | Part 2 | Wrench3 | 87 | Pieces
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10207 | Part 10 | 40 | Pieces
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10208 | Part 12 | 50 | Pieces
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10209 | Part 13 | 20 | Linear Ft.
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10210 | Part 14 | 15 | Pieces
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10202 | Part 5 | 20 | Pieces
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10206 | Part 9 | 99 | Linear Ft.
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - Warehouse1 | 93939 | knob | 10 | Pieces
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - Warehouse1 | 10208 | Part 12 | 9 | Pieces
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - Warehouse1 | 10209 | Part 13 | 5 | Linear Ft.
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - Warehouse1 | 10201 | Part 4 | 10 | Pieces
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - Warehouse1 | 10202 | Part 5 | 4 | Pieces
+2016-04-17 22:28:46 DEBUG WarehousePartReportPDF:188 - Warehouse1 | 10203 | Part 6 | 2 | Pieces
+2016-04-17 22:28:46 INFO  WarehousePartReportPDF:285 - Page 2 created
+2016-04-17 22:28:46 INFO  WarehousePartReportPDF:303 - Writing report to file
+2016-04-17 22:34:41 INFO  WarehousePartReportPDF:59 - Report creation started for PDF
+2016-04-17 22:34:41 WARN  WarehousePartReportPDF:61 - No inventory records found for report yet
+2016-04-17 22:34:41 TRACE FileSystemFontProvider:199 - Will search the local system for fonts
+2016-04-17 22:34:41 TRACE FileSystemFontProvider:213 - Found 470 fonts on the local system
+2016-04-17 22:34:41 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPSMT from C:\Windows\FONTS\times.ttf
+2016-04-17 22:34:41 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPS-BoldMT from C:\Windows\FONTS\timesbd.ttf
+2016-04-17 22:34:41 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPS-ItalicMT from C:\Windows\FONTS\timesi.ttf
+2016-04-17 22:34:41 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPS-BoldItalicMT from C:\Windows\FONTS\timesbi.ttf
+2016-04-17 22:34:41 DEBUG FileSystemFontProvider:655 - Loaded ArialMT from C:\Windows\FONTS\arial.ttf
+2016-04-17 22:34:41 DEBUG FileSystemFontProvider:655 - Loaded Arial-BoldMT from C:\Windows\FONTS\arialbd.ttf
+2016-04-17 22:34:41 DEBUG FileSystemFontProvider:655 - Loaded Arial-ItalicMT from C:\Windows\FONTS\ariali.ttf
+2016-04-17 22:34:41 DEBUG FileSystemFontProvider:655 - Loaded Arial-BoldItalicMT from C:\Windows\FONTS\arialbi.ttf
+2016-04-17 22:34:41 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPSMT from C:\Windows\FONTS\cour.ttf
+2016-04-17 22:34:41 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPS-BoldMT from C:\Windows\FONTS\courbd.ttf
+2016-04-17 22:34:41 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPS-ItalicMT from C:\Windows\FONTS\couri.ttf
+2016-04-17 22:34:41 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPS-BoldItalicMT from C:\Windows\FONTS\courbi.ttf
+2016-04-17 22:34:41 DEBUG FileSystemFontProvider:655 - Loaded SymbolMT from C:\Windows\FONTS\symbol.ttf
+2016-04-17 22:34:41 DEBUG FileSystemFontProvider:655 - Loaded MS-Gothic from C:\Windows\FONTS\msgothic.ttc
+2016-04-17 22:34:41 TRACE WarehousePartReportPDF:178 - Writing record 35 to report
+2016-04-17 22:34:41 INFO  WarehousePartReportPDF:180 - Record 21 will cause a page break
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - East | 14747 | Bolt | 30 | Pieces
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - East | 93939 | knob | 21 | Pieces
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - East | 10209 | Part 2 | 55 | Linear Ft.
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - East | 10200 | Part 3 | 6 | Pieces
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - East | 10201 | Part 4 | 1 | Pieces
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - East | 10204 | Part 7 | 65 | Pieces
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 10210 | Drill | 90 | Pieces
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 93939 | knob | 22 | Pieces
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 10209 | Part 2 | 28 | Linear Ft.
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 10200 | Part 3 | 54 | Pieces
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 10202 | Part 5 | 8 | Pieces
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 10207 | Sandpaper | 44 | Pieces
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 10233 | Saw | 66 | Pieces
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | Part 2 | Wrench3 | 77 | Pieces
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 14747 | Bolt | 30 | Pieces
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10210 | Drill | 25 | Pieces
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10209 | Part 2 | 123 | Linear Ft.
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10200 | Part 3 | 78 | Pieces
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10201 | Part 4 | 40 | Pieces
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10202 | Part 5 | 8 | Pieces
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10204 | Part 7 | 9 | Pieces
+2016-04-17 22:34:41 INFO  WarehousePartReportPDF:214 - Page 1 created
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10207 | Sandpaper | 33 | Pieces
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | Part 2 | Wrench3 | 87 | Pieces
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10210 | Drill | 15 | Pieces
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10208 | Part 1 | 50 | Pieces
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10209 | Part 2 | 20 | Linear Ft.
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10202 | Part 5 | 20 | Pieces
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10206 | Part 9 | 99 | Linear Ft.
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10207 | Sandpaper | 40 | Pieces
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - Warehouse1 | 93939 | knob | 10 | Pieces
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - Warehouse1 | 10208 | Part 1 | 9 | Pieces
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - Warehouse1 | 10209 | Part 2 | 5 | Linear Ft.
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - Warehouse1 | 10201 | Part 4 | 10 | Pieces
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - Warehouse1 | 10202 | Part 5 | 4 | Pieces
+2016-04-17 22:34:41 DEBUG WarehousePartReportPDF:188 - Warehouse1 | 10203 | Part 6 | 2 | Pieces
+2016-04-17 22:34:41 INFO  WarehousePartReportPDF:285 - Page 2 created
+2016-04-17 22:34:41 INFO  WarehousePartReportPDF:303 - Writing report to file
+2016-04-17 22:38:03 INFO  WarehousePartReportPDF:59 - Report creation started for PDF
+2016-04-17 22:38:03 WARN  WarehousePartReportPDF:61 - No inventory records found for report yet
+2016-04-17 22:38:03 TRACE FileSystemFontProvider:199 - Will search the local system for fonts
+2016-04-17 22:38:03 TRACE FileSystemFontProvider:213 - Found 470 fonts on the local system
+2016-04-17 22:38:03 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPSMT from C:\Windows\FONTS\times.ttf
+2016-04-17 22:38:03 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPS-BoldMT from C:\Windows\FONTS\timesbd.ttf
+2016-04-17 22:38:03 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPS-ItalicMT from C:\Windows\FONTS\timesi.ttf
+2016-04-17 22:38:03 DEBUG FileSystemFontProvider:655 - Loaded TimesNewRomanPS-BoldItalicMT from C:\Windows\FONTS\timesbi.ttf
+2016-04-17 22:38:03 DEBUG FileSystemFontProvider:655 - Loaded ArialMT from C:\Windows\FONTS\arial.ttf
+2016-04-17 22:38:03 DEBUG FileSystemFontProvider:655 - Loaded Arial-BoldMT from C:\Windows\FONTS\arialbd.ttf
+2016-04-17 22:38:03 DEBUG FileSystemFontProvider:655 - Loaded Arial-ItalicMT from C:\Windows\FONTS\ariali.ttf
+2016-04-17 22:38:03 DEBUG FileSystemFontProvider:655 - Loaded Arial-BoldItalicMT from C:\Windows\FONTS\arialbi.ttf
+2016-04-17 22:38:03 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPSMT from C:\Windows\FONTS\cour.ttf
+2016-04-17 22:38:03 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPS-BoldMT from C:\Windows\FONTS\courbd.ttf
+2016-04-17 22:38:03 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPS-ItalicMT from C:\Windows\FONTS\couri.ttf
+2016-04-17 22:38:03 DEBUG FileSystemFontProvider:655 - Loaded CourierNewPS-BoldItalicMT from C:\Windows\FONTS\courbi.ttf
+2016-04-17 22:38:03 DEBUG FileSystemFontProvider:655 - Loaded SymbolMT from C:\Windows\FONTS\symbol.ttf
+2016-04-17 22:38:03 DEBUG FileSystemFontProvider:655 - Loaded MS-Gothic from C:\Windows\FONTS\msgothic.ttc
+2016-04-17 22:38:04 TRACE WarehousePartReportPDF:178 - Writing record 35 to report
+2016-04-17 22:38:04 INFO  WarehousePartReportPDF:180 - Record 21 will cause a page break
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - East | 14747 | Bolt | 30 | Pieces
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - East | 93939 | knob | 21 | Pieces
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - East | 10209 | Part 2 | 55 | Linear Ft.
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - East | 10200 | Part 3 | 6 | Pieces
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - East | 10201 | Part 4 | 1 | Pieces
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - East | 10204 | Part 7 | 65 | Pieces
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 10210 | Drill | 90 | Pieces
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 93939 | knob | 22 | Pieces
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 10209 | Part 2 | 28 | Linear Ft.
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 10200 | Part 3 | 54 | Pieces
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 10202 | Part 5 | 8 | Pieces
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 10207 | Sandpaper | 44 | Pieces
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | 10233 | Saw | 66 | Pieces
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - Warehouse 2 | Part 2 | Wrench3 | 77 | Pieces
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 14747 | Bolt | 30 | Pieces
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10210 | Drill | 25 | Pieces
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10209 | Part 2 | 123 | Linear Ft.
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10200 | Part 3 | 78 | Pieces
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10201 | Part 4 | 40 | Pieces
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10202 | Part 5 | 8 | Pieces
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10204 | Part 7 | 9 | Pieces
+2016-04-17 22:38:04 INFO  WarehousePartReportPDF:214 - Page 1 created
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | 10207 | Sandpaper | 33 | Pieces
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - Warehouse 4 | Part 2 | Wrench3 | 87 | Pieces
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10210 | Drill | 15 | Pieces
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10208 | Part 1 | 50 | Pieces
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10209 | Part 2 | 20 | Linear Ft.
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10202 | Part 5 | 20 | Pieces
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10206 | Part 9 | 99 | Linear Ft.
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - Warehouse 5 | 10207 | Sandpaper | 40 | Pieces
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - Warehouse1 | 93939 | knob | 10 | Pieces
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - Warehouse1 | 10208 | Part 1 | 9 | Pieces
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - Warehouse1 | 10209 | Part 2 | 5 | Linear Ft.
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - Warehouse1 | 10201 | Part 4 | 10 | Pieces
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - Warehouse1 | 10202 | Part 5 | 4 | Pieces
+2016-04-17 22:38:04 DEBUG WarehousePartReportPDF:188 - Warehouse1 | 10203 | Part 6 | 2 | Pieces
+2016-04-17 22:38:04 INFO  WarehousePartReportPDF:285 - Page 2 created
+2016-04-17 22:38:04 INFO  WarehousePartReportPDF:303 - Writing report to file

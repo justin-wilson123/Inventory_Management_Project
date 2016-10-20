@@ -1,0 +1,38 @@
+Warehouse Inventory Summary
+
+Warehouse Name	Part #	Part Name	Quantity	Unit
+East	14747	Bolt	30	Pieces
+East	93939	knob	21	Pieces
+East	10209	Part 2	55	Linear Ft.
+East	10200	Part 3	6	Pieces
+East	10201	Part 4	1	Pieces
+East	10204	Part 7	65	Pieces
+Warehouse 2	10210	Drill	90	Pieces
+Warehouse 2	93939	knob	22	Pieces
+Warehouse 2	10209	Part 2	28	Linear Ft.
+Warehouse 2	10200	Part 3	54	Pieces
+Warehouse 2	10202	Part 5	8	Pieces
+Warehouse 2	10207	Sandpaper	44	Pieces
+Warehouse 2	10233	Saw	66	Pieces
+Warehouse 2	Part 2	Wrench3	77	Pieces
+Warehouse 4	14747	Bolt	30	Pieces
+Warehouse 4	10210	Drill	25	Pieces
+Warehouse 4	10209	Part 2	123	Linear Ft.
+Warehouse 4	10200	Part 3	78	Pieces
+Warehouse 4	10201	Part 4	40	Pieces
+Warehouse 4	10202	Part 5	8	Pieces
+Warehouse 4	10204	Part 7	9	Pieces
+Warehouse 4	10207	Sandpaper	33	Pieces
+Warehouse 4	Part 2	Wrench3	87	Pieces
+Warehouse 5	10210	Drill	15	Pieces
+Warehouse 5	10208	Part 1	50	Pieces
+Warehouse 5	10209	Part 2	20	Linear Ft.
+Warehouse 5	10202	Part 5	20	Pieces
+Warehouse 5	10206	Part 9	99	Linear Ft.
+Warehouse 5	10207	Sandpaper	40	Pieces
+Warehouse1	93939	knob	10	Pieces
+Warehouse1	10208	Part 1	9	Pieces
+Warehouse1	10209	Part 2	5	Linear Ft.
+Warehouse1	10201	Part 4	10	Pieces
+Warehouse1	10202	Part 5	4	Pieces
+Warehouse1	10203	Part 6	2	Pieces
